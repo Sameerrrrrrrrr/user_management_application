@@ -10,9 +10,9 @@ This project implements RESTful API endpoints for user registration and fetching
 - Configure the database
 - Build and Run using Maven build tool
 ## API Endpoints
-- POST /api/user/register
-- Get /api/user/fetch?username={UserName}
-The application will run on localhost:8080 by default.
+- POST  /api/user/register
+- Get  /api/user/fetch?username={UserName}
+- The application will run on localhost:8080 by default.
 
  
 
